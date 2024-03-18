@@ -331,6 +331,22 @@ hr{
     height: 30px;
     left: 98%;
 }
+#navigation{
+    display: flex;
+    margin-top: 70px;
+}
+#Repositories{
+    margin-left: 30px;
+    margin-top: 27px;
+}
+#pastinha1{
+    margin-left: 70px;
+    margin-top: 12px;
+}
+#botoesdanavi button{
+    margin-right: 8px;
+
+}
 }
 
 
