@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela 2</title>
+    <link rel="stylesheet" href="../estilo/style.css">
+</head>
+<body>
+    <section id="secl1">
+        <section id="sec1">
+            <div>
+                <img src="../estilo/Imagens/200px.png" alt="">
+            </div>
+            <div>
+                <p id="fr">Olá, tudo bem?</p>
+                <p id="fr">Como posso <br> ajudar hoje?</p>
+                <button id="btn">Fale comigo!</button>
+            </div>
+            <div id="li1"> 
+                <p id="tx_azul">QUERO COMPRAR MATERIAL <span id="seta">&#8594;</span></p><br>
+                <p id="tx_azul">QUERO COMPRAR SERVIÇO</p><br>
+                <p id="tx_azul">CONSULTAR FLUXO DE PROCESSOS</p><br>
+                <P id="tx_azul">STATUS DAS MINHAS REQUISIÇÕES</P><br>
+                <P id="tx_azul">NÃO SEI AO CERTO, ME AJUDE</P>
+            </div>
+
+        </section>
+        <section id="sec2">
+            <div>
+                <p>
+                    Status de pedidos recentes
+                </p>
+            </div>    
+            <div>
+                <p>
+                    ver todos os pedidos
+                </p>
+            </div>
+            <section>
+                <div>
+                    <p>NºReg</p>
+                </div>
+                <div>
+                    <p>Data</p>
+                </div>
+                <div>
+                    <p>Valor</p>
+                </div>
+                <div>
+                    <p>Status</p>
+                </div>
+            </section>  
+            <hr id="hr">
+            <section>
+                <div>
+                    <p>#125</p>
+                </div>
+                <div>
+                    <p>20/04/2020</p>
+                </div>
+                <div>
+                    <p>R$1250,50</p>
+                </div>
+                <div>
+                    <p>Processado</p>
+                </div>
+
+
+
+
+            </section>
+        </section>
+    </section>
+</body>
+</html>
