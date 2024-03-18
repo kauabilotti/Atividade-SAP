@@ -347,6 +347,25 @@ hr{
     margin-right: 8px;
 
 }
+#overschema{
+    display: flex;
+    margin-left: 390px;
+    margin-top: -340px;
+}
+#h2schema{
+    margin-right: 30px;
+}
+#p1schema{
+    margin-right: 30px;
+    margin-top: 27px;
+}
+#p2schema{
+    margin-top: 27px;
+}
+#botoesschema{
+    margin-left: 360px;
+}
+
 }
 
 
